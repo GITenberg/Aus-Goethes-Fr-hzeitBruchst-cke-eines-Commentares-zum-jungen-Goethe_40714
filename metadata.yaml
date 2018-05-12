@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '40776'
     url: http://www.gutenberg.org/2009/agents/40776
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40714#Aus-Goethes-Fr-hzeitBruchst-cke-eines-Commentares-zum-jungen-Goethe
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-09-08'
 gutenberg_type: Text
